@@ -96,11 +96,18 @@ Through this project, we will see how to extract data from Youtube using YouTube
 
        •	Migrate the data and store it in a SQL database
 
-       •	Use SQLAlchemy tool to query from the database
+       •	Use SQLAlchemy tool to query from the database as per the question the user selects
 
-       •	Create a Streamlit dashboard where the data can be displayed as tables
+       •	Create a Streamlit dashboard where the user can input channel ID and get the data
 
-       •	Also use Streamlit data visualization tools
+       •	Display the analysed data also using Streamlit data visualization tools
+
+**NOTE:**
+
+	I have created a multipage Streamlit app. Except the main.py, other files should be in a folder named 
+ 	"pages" under the directory where main.py is saved.
+
+   	
 
 
 
