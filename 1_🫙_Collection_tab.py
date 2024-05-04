@@ -32,7 +32,7 @@ if get_data:
 
     api_service_name = "youtube"
     api_version = "v3"
-    api_key = "AIzaSyD-h-ZJkwvYAsLrcH1bYZg0HLsd3XBmDjo"
+    api_key = "use your API key"
     youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=api_key)
 
 
