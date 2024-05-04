@@ -104,8 +104,8 @@ Through this project, we will see how to extract data from Youtube using YouTube
 
 **NOTE:**
 
-	I have created a multipage Streamlit app. Except the main.py, other files should be in a folder named 
- 	"pages" under the directory where main.py is saved.
+	I have created a multipage Streamlit app. Except the menu.py, other files should be in a folder named 
+ 	"pages" under the directory where menu.py is saved.
 
    	
 
